@@ -1,6 +1,8 @@
 ---
 content_type: page
 course_id: 24-118-paradox-infinity-spring-2013
+hide_download: true
+hide_download_original: null
 layout: course_section
 menu:
   24-118-paradox-infinity-spring-2013:

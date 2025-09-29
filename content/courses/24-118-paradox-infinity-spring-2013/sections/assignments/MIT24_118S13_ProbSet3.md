@@ -6,6 +6,8 @@ file: null
 file_location: /coursemedia/24-118-paradox-infinity-spring-2013/19dce2aab515f240260804a459740265_MIT24_118S13_ProbSet3.pdf
 file_size: null
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 title: '24.118s13 Paradox & Infinity: Problem Set 3 Foundations of Probability'

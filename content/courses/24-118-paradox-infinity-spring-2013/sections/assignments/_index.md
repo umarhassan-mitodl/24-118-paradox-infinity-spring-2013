@@ -1,6 +1,8 @@
 ---
 content_type: page
 course_id: 24-118-paradox-infinity-spring-2013
+hide_download: true
+hide_download_original: null
 layout: course_section
 menu:
   24-118-paradox-infinity-spring-2013:
@@ -45,4 +47,4 @@ The End-of-Term assignment counts for 50% of the course grade.
 Academic Integrity
 ------------------
 
-Any suspicion of plagiarism or academic dishonesty will be aggressively pursued. Please consult MIT's {{% resource_link "664ec253-8168-4679-ac3d-7a57123f9799" "Handbook on Academic Integrity" %}}.
+Any suspicion of plagiarism or academic dishonesty will be aggressively pursued. Please consult MIT's [Handbook on Academic Integrity](http://web.mit.edu/academicintegrity/handbook/handbook.pdf).
