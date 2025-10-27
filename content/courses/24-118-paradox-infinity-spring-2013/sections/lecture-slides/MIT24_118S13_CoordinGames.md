@@ -6,8 +6,6 @@ file: null
 file_location: /coursemedia/24-118-paradox-infinity-spring-2013/f08de582f3e7370ca8377a1c253d04fa_MIT24_118S13_CoordinGames.pdf
 file_size: null
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 title: '24.118s13 Paradox & Infinity: Lecture Slides - Coordination Games'

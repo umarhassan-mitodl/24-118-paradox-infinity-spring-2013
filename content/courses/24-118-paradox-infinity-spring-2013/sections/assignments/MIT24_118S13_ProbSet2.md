@@ -6,8 +6,6 @@ file: null
 file_location: /coursemedia/24-118-paradox-infinity-spring-2013/3dca20ddd82036b6081001141f4d9d15_MIT24_118S13_ProbSet2.pdf
 file_size: null
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 title: '24.118s13 Paradox & Infinity: Problem Set 2 Newcomb''s Problem'
